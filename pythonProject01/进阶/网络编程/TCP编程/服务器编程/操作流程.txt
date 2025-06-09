@@ -1,0 +1,5 @@
+打开两个命令行窗口，一个运行服务器程序，另一个运行客户端程序：
+1、启动服务器：使用cd命令切换到包含 server.py 文件的目录
+python server.py
+2、启动客户端：使用cd命令切换到包含 client.py 文件的目录
+python client.py
